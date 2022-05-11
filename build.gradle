@@ -1,0 +1,17 @@
+version = "1.0"
+group = "com.sulvic.sulviccore"
+archivesBaseName = "SulvicCore_1.7.10"
+
+repositories {
+	maven{
+		name = "BlameJared Maven"
+		url = "https://maven.blamejared.com"
+	}
+}
+
+dependencies {
+	compile 'MineTweaker3:MineTweaker3-API:3.0.13.43'
+	compile 'MineTweaker3:MineTweaker3-MC1710-Main:1.7.10-3.0.13.43'
+	compile 'MineTweaker3:ZenScript:3.0.13.43'
+	compile fileTree(dir: 'libs', include: ['*.jar'])
+}

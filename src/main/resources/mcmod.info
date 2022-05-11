@@ -1,0 +1,14 @@
+[{
+	"modid": "voidbreak",
+	"name": "VoidBreak",
+	"description": "Meet new mobs, explore new dimensions, and dominate your enemies.\n(Just another demo, mod still in development.)",
+	"version": "b1.0.0",
+	"mcversion": "1.7.10",
+	"url": "http://voidbreakmod.blogspot.com/",
+	"updateUrl": "",
+	"authorList": ["Crimzega"],
+	"credits": "Thanks to FML creators for making this mod possible.",
+	"logoFile": "VoidBreakDemo.png",
+	"screenshots": [],
+	"dependencies": []
+}]

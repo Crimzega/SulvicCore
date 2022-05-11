@@ -1,0 +1,402 @@
+achievement.pinkPanthers=PINK PANTHERS!
+achievement.sapphires=SAPPHIRES!
+achievement.cassiterites=CASSITERITES!
+achievement.enstatites=ENSTATITES!
+achievement.moonstones=MOONSTONES!
+achievement.aquamarines=AQUAMARINES!
+achievement.citrines=CITRINES!
+achievement.tourmalines=TOURMALINES!
+achievement.peridots=PERIDOTS!
+achievement.beryls=BERYLS!
+achievement.fireAgates=FIRE AGATES!
+achievement.druzies=DRUZIES!
+achievement.ametrines=AMETRINES!
+achievement.onyxs=ONYXS!
+
+achievement.rubies.desc=Aquire rubies with your iron tools
+achievement.pinkPanthers.desc=Aquire pink panthers with your iron tools
+achievement.sapphires.desc=Aquire sapphires with your iron tools
+achievement.cassiterites.desc=Aquire cassiterites with your iron tools
+achievement.enstatites.desc=Aquire enstatites with your iron tools
+achievement.moonstones.desc=Aquire moonstones with your iron tools
+achievement.aquamarines.desc=Aquire aquamarines with your iron tools
+achievement.citrines.desc=Aquire citrines with your iron tools
+achievement.tourmalines.desc=Aquire tourmalines with your iron tools
+achievement.peridots.desc=Aquire peridots with your iron tools
+achievement.beryls.desc=Aquire beryls with your iron tools
+achievement.fireAgates.desc=Aquire fire agates with your iron tools
+achievement.druzies.desc=Aquire druzies with your iron tools
+achievement.ametrines.desc=Aquire ametrines with your iron tools
+achievement.onyxs.desc=Aquire onyxs with your iron tools
+
+config.biomeId=Biome ID
+config.pileBlocks=Pile Blocks
+
+gui.button.atlas=Create Game Atlas
+
+modGroup.blocks=Sulvic Blocks
+modGroup.items=Sulvic Items
+modGroup.food=Sulvic Food
+modGroup.tools=Sulvic Tools
+modGroup.equip=Sulvic Equipment
+modGroup.spheres=Sulvic Spawning Spheres
+
+commands.getblock.usage=/getblock <x> <y> <z>
+commands.getblock.outOfWorld=Cannot detect block outside of the world
+commands.getblock.sucess=Current block: %s [Metadata: %d]
+commands.worldspawn.usge=/worldspawn
+commands.worldspawn.success=World Spawn: {X: %d Y: %d Z: %d}
+
+entity.BrokenSkull.name=Broken Skull
+entity.Annoyer.name=Annoyer
+entity.Deltruant.name=Deltruant
+entity.SulvicOrePoint.name=Detected Ore
+
+container.specialWorkbench=Zéta Workbench
+container.specialWorkbench.sub1=Sub Layer I
+container.specialWorkbench.sub2=Sub Layer II
+container.specialWorkbench.sub3=Sub Layer III
+container.specialWorkbench.sub4=Sub Layer IV
+container.specialWorkbench.sub5=Sub Layer V
+container.specialWorkbench.sub6=Sub Layer VI
+container.specialWorkbench.sub7=Sub Layer VII
+container.specialWorkbench.sub8=Sub Layer VIII
+container.specialWorkbench.sub9=Sub Layer IX
+container.zechaDrawer=Zecha Drawer
+//container.ultimaniumFurnace=Ultimanium Furnace
+
+tile.oreGem.ruby.name=Ruby Ore
+tile.oreGem.pinkPanther.name=Pink Panther Ore
+tile.oreGem.sapphire.name=Sapphire Ore
+tile.oreGem.cassiterite.name=Cassiterite Ore
+tile.oreGem.enstatite.name=Enstatite Ore
+tile.oreGem.moonstone.name=Moonstone Ore
+tile.oreGem.aquamarine.name=Aquamarine Ore
+tile.oreGem.citrine.name=Citrine Ore
+tile.oreGem.tourmaline.name=Tourmaline Ore
+tile.oreGem.peridot.name=Peridot Ore
+tile.oreGem.beryl.name=Beryl Ore
+tile.oreGem.fireAgate.name=Fire Agate Ore
+tile.oreGem.druzy.name=Druzy Ore
+tile.oreGem.ametrine.name=Ametrine Ore
+tile.oreGem.onyx.name=Onyx Ore
+
+tile.oreGem.nether.ruby.name=Nether Ruby Ore
+tile.oreGem.nether.pinkPanther.name=Nether Pink Panther Ore
+tile.oreGem.nether.sapphire.name=Nether Sapphire Ore
+tile.oreGem.nether.cassiterite.name=Nether Cassiterite Ore
+tile.oreGem.nether.enstatite.name=Nether Enstatite Ore
+tile.oreGem.nether.moonstone.name=Nether Moonstone Ore
+tile.oreGem.nether.aquamarine.name=Nether Aquamarine Ore
+tile.oreGem.nether.citrine.name=Nether Citrine Ore
+tile.oreGem.nether.tourmaline.name=Nether Tourmaline Ore
+tile.oreGem.nether.peridot.name=Nether Peridot Ore
+tile.oreGem.nether.beryl.name=Nether Beryl Ore
+tile.oreGem.nether.fireAgate.name=Nether Fire Agate Ore
+tile.oreGem.nether.druzy.name=Nether Druzy Ore
+tile.oreGem.nether.ametrine.name=Nether Ametrine Ore
+tile.oreGem.nether.onyx.name=Nether Onyx Ore
+
+tile.oreSpecial.name=Zéta Ore
+tile.oreZecha.name=Zecha Ore
+
+tile.saplingCitrus.name=Citrus Sapling
+tile.leavesCitrus.name=Citrus Leaves
+tile.logCitrus.name=Citrus Log
+tile.planksCitrus.name=Citrus Planks
+
+tile.citrusSlab.name=Citrus Slab
+tile.citrusStairs.name=Citrus Stairs
+
+tile.sweetPotato.name=Sweet Potatoes
+
+tile.gem.ruby.name=Block of Ruby
+tile.gem.pinkPanther.name=Block of Pink Panther
+tile.gem.sapphire.name=Block of Sapphire
+tile.gem.cassiterite.name=Block of Cassiterite
+tile.gem.enstatite.name=Block of Enstatite
+tile.gem.moonstone.name=Block of Moonstone
+tile.gem.aquamarine.name=Block of Aquamarine
+tile.gem.citrine.name=Block of Citrine
+tile.gem.tourmaline.name=Block of Tourmaline
+tile.gem.peridot.name=Block of Peridot
+tile.gem.beryl.name=Block of Beryl
+tile.gem.fireAgate.name=Block of Fire Agate
+tile.gem.druzy.name=Block of Druzy
+tile.gem.ametrine.name=Block of Ametrine
+tile.gem.onyx.name=Block of Onyx
+
+tile.special.dust.name=Zéta Dust Block
+tile.special.metal.name=Block of Zéta
+tile.zecha.name=Block of Zecha
+
+tile.sugar.name=Sugar Block
+tile.sugarPile.name=Pile of Sugar
+
+tile.burntSugar.name=Burnt Sugar Block
+tile.burntSugarPile.name=Pile of Burnt Sugar
+
+tile.specialWorkbench.name=Zéta Workbench
+tile.zechaDrawer.name=Zecha Drawer
+tile.ultimaniumFurnace.name=Ultimanium Furnace
+tile.detector.name=Ore Detector
+
+item.gem.ruby.name=Ruby
+item.gem.pinkPanther.name=Pink Panther
+item.gem.sapphire.name=Sapphire
+item.gem.cassiterite.name=Cassiterite
+item.gem.enstatite.name=Enstatite
+item.gem.moonstone.name=Moonstone
+item.gem.aquamarine.name=Aquamarine
+item.gem.citrine.name=Citrine
+item.gem.tourmaline.name=Tourmaline
+item.gem.peridot.name=Peridot
+item.gem.beryl.name=Beryl
+item.gem.fireAgate.name=Fire Agate
+item.gem.druzy.name=Druzy
+item.gem.ametrine.name=Ametrine
+item.gem.onyx.name=Onyx
+
+item.specialDust.name=Zéta Dust
+item.specialIngot.name=Zéta Ingot
+item.zechaIngot.name=Zecha Ingot
+
+item.sweetPotato.name=Sweet Potato
+item.energyBar.name=Energy Bar
+
+item.orange.name=Orange
+item.orangeWedge.name=Orange Wedge
+item.orangePeel.name=Orange Peel
+
+item.burntSugar.name=Burnt Sugar
+
+item.wrench.name=Wrench
+
+item.rubyHelmet.name=Ruby Helmet
+item.rubyChestplate.name=Ruby Chestplate
+item.rubyLeggings.name=Ruby Leggings
+item.rubyBoots.name=Ruby Boots
+
+item.pinkPantherHelmet.name=Pink Panther Helmet
+item.pinkPantherChestplate.name=Pink Panther Chestplate
+item.pinkPantherLeggings.name=Pink Panther Leggings
+item.pinkPantherBoots.name=Pink Panther Boots
+
+item.sapphireHelmet.name=Sapphire Helmet
+item.sapphireChestplate.name=Sapphire Chestplate
+item.sapphireLeggings.name=Sapphire Leggings
+item.sapphireBoots.name=Sapphire Boots
+
+item.cassiteriteHelmet.name=Cassiterite Helmet
+item.cassiteriteChestplate.name=Cassiterite Chestplate
+item.cassiteriteLeggings.name=Cassiterite Leggings
+item.cassiteriteBoots.name=Cassiterite Boots
+
+item.enstatiteHelmet.name=Enstatite Helmet
+item.enstatiteChestplate.name=Enstatite Chestplate
+item.enstatiteLeggings.name=Enstatite Leggings
+item.enstatiteBoots.name=Enststite Boots
+
+item.moonstoneHelmet.name=Moonstone Helmet
+item.moonstoneChestplate.name=Moonstone Chestplate
+item.moonstoneLeggings.name=Moonstone Leggings
+item.moonstoneBoots.name=Moonstone Boots
+
+item.aquamarineHelmet.name=Aquamarine Helmet
+item.aquamarineChestplate.name=Aquamarine Chestplate
+item.aquamarineLeggings.name=Aquamarine Leggings
+item.aquamarineBoots.name=Aquamarine Boots
+
+item.citrineHelmet.name=Citrine Helmet
+item.citrineChestplate.name=Citrine Chestplate
+item.citrineLeggings.name=Citrine Leggings
+item.citrineBoots.name=Citrine Boots
+
+item.tourmalineHelmet.name=Tourmaline Helmet
+item.tourmalineChestplate.name=Tourmaline Chestplate
+item.tourmalineLeggings.name=Tourmaline Leggings
+item.tourmalineBoots.name=Tourmaline Boots
+
+item.peridotHelmet.name=Peridot Helmet
+item.peridotChestplate.name=Peridot Chestplate
+item.peridotLeggings.name=Peridot Leggings
+item.peridotBoots.name=Peridot Boots
+
+item.berylHelmet.name=Beryl Helmet
+item.berylChestplate.name=Beryl Chestplate
+item.berylLeggings.name=Beryl Leggings
+item.berylBoots.name=Beryl Boots
+
+item.fireAgateHelmet.name=Fire Agate Helmet
+item.fireAgateChestplate.name=Fire Agate Chestplate
+item.fireAgateLeggings.name=Fire Agate Leggings
+item.fireAgateBoots.name=Fire Agate Boots
+
+item.druzyHelmet.name=Druzy Helmet
+item.druzyChestplate.name=Druzy Chestplate
+item.druzyLeggings.name=Druzy Leggings
+item.druzyBoots.name=Druzy Boots
+
+item.ametrineHelmet.name=Ametrine Helmet
+item.ametrineChestplate.name=Ametrine Chestplate
+item.ametrineLeggings.name=Ametrine Leggings
+item.ametrineBoots.name=Ametrine Boots
+
+item.onyxHelmet.name=Onyx Helmet
+item.onyxChestplate.name=Onyx Chestplate
+item.onyxLeggings.name=Onyx Leggings
+item.onyxBoots.name=Onyx Boots
+
+item.specialHelmet.name=Zéta Helmet
+item.specialChestplate.name=Zéta Chestplate
+item.specialLeggings.name=Zéta Leggings
+item.specialBoots.name=Zéta Boots
+
+item.zechaHelmet.name=Zecha Helmet
+item.zechaChestplate.name=Zecha Chestplate
+item.zechaLeggings.name=Zecha Leggings
+item.zechaBoots.name=Zecha Boots
+
+item.rubySword.name=Ruby Sword
+item.rubySpade.name=Ruby Shovel
+item.rubyPickaxe.name=Ruby Pickaxe
+item.rubyAxe.name=Ruby Axe
+item.rubyHoe.name=Ruby Hoe
+
+item.pinkPantherSword.name=Pink Panther Sword
+item.pinkPantherSpade.name=Pink Panther Shovel
+item.pinkPantherPickaxe.name=Pink Panther Pickaxe
+item.pinkPantherAxe.name=Pink Panther Axe
+item.pinkPantherHoe.name=Pink Panther Hoe
+
+item.sapphireSword.name=Sapphire Sword
+item.sapphireSpade.name=Sapphire Shovel
+item.sapphirePickaxe.name=Sapphire Pickaxe
+item.sapphireAxe.name=Sapphire Axe
+item.sapphireHoe.name=Sapphire Hoe
+
+item.cassiteriteSword.name=Cassiterite Sword
+item.cassiteriteSpade.name=Cassiterite Shovel
+item.cassiteritePickaxe.name=Cassiterite Pickaxe
+item.cassiteriteAxe.name=Cassiterite Axe
+item.cassiteriteHoe.name=Cassiterite Hoe
+
+item.enstatiteSword.name=Enstatite Sword
+item.enstatiteSpade.name=Enstatite Shovel
+item.enstatitePickaxe.name=Enstatite Pickaxe
+item.enstatiteAxe.name=Enstatite Axe
+item.enstatiteHoe.name=Enstatite Hoe
+
+item.moonstoneSword.name=Moonstone Sword
+item.moonstoneSpade.name=Moonstone Shovel
+item.moonstonePickaxe.name=Moonstone Pickaxe
+item.moonstoneAxe.name=Moonstone Axe
+item.moonstoneHoe.name=Moonstone Hoe
+
+item.aquamarineSword.name=Aquamarine Sword
+item.aquamarineSpade.name=Aquamarine Shovel
+item.aquamarinePickaxe.name=Aquamarine Pickaxe
+item.aquamarineAxe.name=Aquamarine Axe
+item.aquamarineHoe.name=Aquamanrine Hoe
+
+item.citrineSword.name=Citrine Sword
+item.citrineSpade.name=Citrine Shovel
+item.citrinePickaxe.name=Citrine Pickaxe
+item.citrineAxe.name=Citrine Axe
+item.citrineHoe.name=Citrine Hoe
+
+item.tourmalineSword.name=Tourmaline Sword
+item.tourmalineSpade.name=tourmaline Shovel
+item.tourmalinePickaxe.name=Tourmaline Pickaxe
+item.tourmalineAxe.name=Tourmaline Axe
+item.tourmalineHoe.name=Tourmaline Hoe
+
+item.peridotSword.name=Peridot Sword
+item.peridotSpade.name=Peridot Shovel
+item.peridotPickaxe.name=Peridot Pickaxe
+item.peridotAxe.name=Peridot Axe
+item.peridotHoe.name=Peridot Hoe
+
+item.berylSword.name=Beryl Sword
+item.berylSpade.name=Beryl Shovel
+item.berylPickaxe.name=Beryl Pickaxe
+item.berylAxe.name=Beryl Axe
+item.berylHoe.name=Beryl Hoe
+
+item.fireAgateSword.name=Fire Agate Sword
+item.fireAgateSpade.name=Fire Agate Shovel
+item.fireAgatePickaxe.name=Fire Agate Pickaxe
+item.fireAgateAxe.name=Fire Agate Axe
+item.fireAgateHoe.name=Fire Agate Hoe
+
+item.druzySword.name=Druzy Sword
+item.druzySpade.name=Druzy Shovel
+item.druzyPickaxe.name=Druzy Pickaxe
+item.druzyAxe.name=Druzy Axe
+item.druzyHoe.name=Druzy Hoe
+
+item.ametrineSword.name=Ametrine Sword
+item.ametrineSpade.name=Ametrine Shovel
+item.ametrinePickaxe.name=Anetrine Pickaxe
+item.ametrineAxe.name=Anetrine Axe
+item.ametrineHoe.name=Ametrine Hoe
+
+item.onyxSword.name=Onyx Sword
+item.onyxSpade.name=Onyx Shovel
+item.onyxPickaxe.name=Onyx Pickaxe
+item.onyxAxe.name=Onyx Axe
+item.onyxHoe.name=Onyx Hoe
+
+item.specialSword.name=Zéta Sword
+item.specialSpade.name=Zéta Shovel
+item.specialPickaxe.name=Zéta Pickaxe
+item.specialAxe.name=Zéta Axe
+item.specialHoe.name=Zéta Hoe
+
+item.zechaSword.name=Zecha Sword
+item.zechaSpade.name=Zecha Shovel
+item.zechaPickaxe.name=Zecha Pickaxe
+item.zechaAxe.name=Zecha Axe
+item.zechaHoe.name=Zecha Hoe
+
+item.spawnSphere.name=Spawn Sphere
+
+//Ex Nihilo
+item.rubyHammer.name=Ruby Hammer
+item.pinkPantherHammer.name=Pink Panther Hammer
+item.sapphireHammer.name=Sapphire Hammer
+item.cassiteriteHammer.name=Cassiterite Hammer
+item.enstatiteHammer.name=Enstatite Hammer
+item.moonstoneHammer.name=Moonstone Hammer
+item.aquamarineHammer.name=Aquamarine Hammer
+item.citrineHammer.name=Citrine Hammer
+item.tourmalineHammer.name=Tourmaline Hammer
+item.peridotHammer.name=Peridot Hammer
+item.berylHammer.name=Beryl Hammer
+item.fireAgateHammer.name=Fire Agate Hammer
+item.druzyHammer.name=Druzy Hammer
+item.ametrineHammer.name=Ametrine Hammer
+item.onyxHammer.name=Onyx Hammer
+
+item.specialHammer.name=Zéta Hammer
+item.zechaHammer.name=Zecha Hammer
+
+//Thaumcraft
+tc.aspect.nihil=Nothing
+
+//Grindable
+item.gemDust.ruby.name=Ruby Dust
+item.gemDust.pinkPanther.name=Pink Panther Dust
+item.gemDust.sapphire.name=Sapphire Dust
+item.gemDust.cassiterite.name=Cassiterite Dust
+item.gemDust.enstatite.name=Enstatite Dust
+item.gemDust.moonstone.name=Moonstone Dust
+item.gemDust.aquamarine.name=Aquamarine Dust
+item.gemDust.citrine.name=Citrine Dust
+item.gemDust.tourmaline.name=Tourmaline Dust
+item.gemDust.peridot.name=Peridot Dust
+item.gemDust.beryl.name=Beryl Dust
+item.gemDust.fireAgate.name=Fire Agate Dust
+item.gemDust.druzy.name=Druzy Dust
+item.gemDust.ametrine.name=Ametrine Dust
+item.gemDust.onyx.name=Onyx Dust
